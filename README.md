@@ -8,10 +8,10 @@ The project includes **two interactive dashboards** offering deep insights into 
 ## 🖼️ Dashboard Preview
 
 ### **📌 Dashboard 1**
-![HR Salary Dashboard](./HR%20SALARY%20ANALYSIS%20DASHBOARD.png)
+![HR Salary Dashboard](image/HR_SALARY_ANALYSIS_DASH_1_(1).png)
 
 ### **📌 Dashboard 2**
-![HR Salary Dashboard 2](./HR%20SALARY%20ANALYSIS%20DASH%201%20(1).png)
+![HR Salary Dashboard 2](image/HR_SALARY_ANALYSIS_DASHBOARD.png)
 
 ---
 
